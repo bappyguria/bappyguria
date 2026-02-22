@@ -36,7 +36,7 @@ I'm a **Flutter enthusiast** and **Tec lover** on a mission to build apps that a
 > **What It Does:** A feature-packed task manager with smooth API integration for seamless productivity.  
 > **What I Learned:** Best practices for API calls and state management.  
 
-### ☀️ [E-Commerce App (Flutter + BLoC)](https://github.com/bappyguria/ecomm_bloc)  
+### ☀️ [E-Commerce App (Flutter + BLoC)](https://github.com/bappyguria/ecommerce)  
 > **Tech:** Flutter, REST API  
 > **A full-featured E-Commerce Mobile Application built using Flutter + BLoC with clean
 architecture, REST API, Firebase Notification & Secure Authentication system
