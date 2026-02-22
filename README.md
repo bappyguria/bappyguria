@@ -21,10 +21,10 @@
 ## 🌌 Who Am I?
 I'm a **Flutter enthusiast** and **Tec lover** on a mission to build apps that are as beautiful as they are functional. My code is my canvas, and I paint with **Dart**, and a sprinkle of creativity. Whether it’s a sleek mobile app or a responsive web interface, I’m all about delivering **pixel-perfect experiences** that make users smile. 😎
 
-- 🎨 **Tech Palette:** Flutter, Dart, Python, Firebase, Supabase, REST APIs  
-- 🌱 **Currently Mastering:** Advanced State Management (BLoC, Provider)  
+- 🎨 **Tech Palette:** Flutter, Dart, Firebase, Supabase, REST APIs  
+- 🌱 **Currently Mastering:** Advanced State Management (BLoC, GetX)  
 - 🤝 **Open to Collaborate:** On innovative Flutter or cross-platform projects  
-- 📬 **Ping Me:** [devmontasir@gmail.com](mailto:devmontasir@gmail.com)  
+- 📬 **Ping Me:** [guriabappye8@gmail.com](mailto:guriabappye8@gmail.com)  
 - 🌍 **Fun Fact:** I believe great UI/UX can change the world, one tap at a time!  
 
 ---
